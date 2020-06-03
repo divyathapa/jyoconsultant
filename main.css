@@ -1,0 +1,75 @@
+/* variables */
+
+:root {
+--head-color: green;
+--head-fontcolor: white;
+--fontfamily: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+
+
+
+/* HEADER AND NAV BAR */
+
+.sticky-top {
+    background-color: white;
+  
+}
+
+
+.contact {
+list-style: none;
+background-color: hsl(93, 36%, 35%);
+padding: 10px 16px;
+text-align: space-between;
+}
+
+a {
+    text-decoration: none;
+}
+li {
+    display: inline;
+    text-align: center;
+    color: white;
+    padding: 10px ;
+   
+}
+
+.book {
+    float: right;
+    padding: 5px;
+}
+
+.logo {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text1 {
+    width: 100%;
+	float: left;
+	font-size: 20px;
+	line-height: 36px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+    margin-bottom: 40px;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.7);
+	color: #fff;
+	letter-spacing: 0.5px;
+}
+
+
+/* IMAGES*/
+
+#fade{
+    opacity: 0.8;
+}
+
+/* WELCOME DR JYOTI*/
+
+/* FOOTER*/
+
+/* IMAGES*/
